@@ -4,6 +4,17 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
+    created: "2023-01-23T16:19:56.332015Z"
+    description: The Helm chart to deploy kraken on a Kubernetes cluster
+    digest: ee9387f907d2c0c0f666ad73b10b8e91397bc7512ff6081d225be2721374b793
+    name: kraken
+    type: application
+    urls:
+    - https://thg-dataandai.github.io/search-app-catalog/kraken-1.1.0.tgz
+    version: 1.1.0
+  - annotations:
+      application.giantswarm.io/team: search
+    apiVersion: v2
     created: "2023-01-19T14:48:56.814678Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 03473d926c231e0bb3bfaa58441d525a6e1ea555fe9d6707af1caf589c631bef
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://thg-dataandai.github.io/search-app-catalog/kraken-1.0.0.tgz
     version: 1.0.0
-generated: "2023-01-19T14:48:56.813936Z"
+generated: "2023-01-23T16:19:56.329242Z"

@@ -3,7 +3,24 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-01-25T15:08:31.436328987Z"
+    created: "2023-01-25T15:19:57.824657629Z"
+    description: Helm chart for Elasticsearch (THG version of the official chart)
+    digest: 4fd5aa5c00691c1eb284dda4f27cab65a8fc756fffd0b67e14819759e194643c
+    home: https://github.com/THG-DataAndAI/elasticsearch-helm
+    icon: https://helm.elastic.co/icons/elasticsearch.png
+    maintainers:
+    - email: DL-Search@thehutgroup.com
+      name: Search Team
+    name: elasticsearch
+    sources:
+    - https://github.com/elastic/elasticsearch
+    - https://github.com/elastic/helm-charts
+    urls:
+    - https://THG-DataAndAI.github.io/search-app-catalog/elasticsearch-8.5.1.tgz
+    version: 8.5.1
+  - apiVersion: v1
+    appVersion: 8.5.1
+    created: "2023-01-25T15:19:57.823464425Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: 1c13360c23e273ee7ee83d491a32df91f335f7445d0f888757d51d52bd843891
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -20,7 +37,7 @@ entries:
     version: 0.0.0-f21a2e5d4242cdd9d918f5b06290472912bc6a3d
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-01-25T15:08:31.434965297Z"
+    created: "2023-01-25T15:19:57.82223782Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: 4f355e77ee4f200ee321dc75459dac81652a90891af13e16f0c8426c5bd96b50
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -37,7 +54,7 @@ entries:
     version: 0.0.0-470a93ee460adf3de7c98600e798f8206f79318e
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-01-25T15:08:31.433720006Z"
+    created: "2023-01-25T15:19:57.821027015Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: 7f21d2161bddd4147d4fa23268c497b4555b70e7a0f9b3ea2fbabf0cb01246b9
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -54,7 +71,7 @@ entries:
     version: 0.0.0-3c28e62c144c8d91b22b0fc4ec51d7f4cce42204
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-01-25T15:08:31.432234517Z"
+    created: "2023-01-25T15:19:57.81975271Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: e358c6e97ba9cbab9ca6a7efad5397ac93eed4a0e34ef58ac608b16e45a471cb
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -73,7 +90,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-01-25T15:08:31.438555571Z"
+    created: "2023-01-25T15:19:57.826286135Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 57ad69c51bbcb5f40d138577c82a028ad916051e9e72b0e66f085bba61d62c9b
     name: kraken
@@ -84,7 +101,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-01-25T15:08:31.437793176Z"
+    created: "2023-01-25T15:19:57.825725433Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: ee9387f907d2c0c0f666ad73b10b8e91397bc7512ff6081d225be2721374b793
     name: kraken
@@ -95,7 +112,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-01-25T15:08:31.437051582Z"
+    created: "2023-01-25T15:19:57.825201731Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 03473d926c231e0bb3bfaa58441d525a6e1ea555fe9d6707af1caf589c631bef
     name: kraken
@@ -103,4 +120,4 @@ entries:
     urls:
     - https://THG-DataAndAI.github.io/search-app-catalog/kraken-1.0.0.tgz
     version: 1.0.0
-generated: "2023-01-25T15:08:31.429741435Z"
+generated: "2023-01-25T15:19:57.817483502Z"

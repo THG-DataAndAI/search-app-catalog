@@ -3,9 +3,9 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-01-25T14:51:39.339186499Z"
+    created: "2023-01-25T14:56:40.872982173Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
-    digest: 2a9ff08eb0e9f671ac191065a79ae52ba4a67af366a0272cf9272047ce5c49ab
+    digest: 1c13360c23e273ee7ee83d491a32df91f335f7445d0f888757d51d52bd843891
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
     icon: https://helm.elastic.co/icons/elasticsearch.png
     maintainers:
@@ -20,7 +20,7 @@ entries:
     version: 0.0.0-f21a2e5d4242cdd9d918f5b06290472912bc6a3d
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-01-25T14:51:39.337812328Z"
+    created: "2023-01-25T14:56:40.87131806Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: e358c6e97ba9cbab9ca6a7efad5397ac93eed4a0e34ef58ac608b16e45a471cb
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -39,7 +39,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-01-25T14:51:39.341085297Z"
+    created: "2023-01-25T14:56:40.880804807Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 57ad69c51bbcb5f40d138577c82a028ad916051e9e72b0e66f085bba61d62c9b
     name: kraken
@@ -50,7 +50,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-01-25T14:51:39.340428664Z"
+    created: "2023-01-25T14:56:40.880103459Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: ee9387f907d2c0c0f666ad73b10b8e91397bc7512ff6081d225be2721374b793
     name: kraken
@@ -61,7 +61,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-01-25T14:51:39.339834133Z"
+    created: "2023-01-25T14:56:40.879444914Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 03473d926c231e0bb3bfaa58441d525a6e1ea555fe9d6707af1caf589c631bef
     name: kraken
@@ -69,4 +69,4 @@ entries:
     urls:
     - https://THG-DataAndAI.github.io/search-app-catalog/kraken-1.0.0.tgz
     version: 1.0.0
-generated: "2023-01-25T14:51:39.334886277Z"
+generated: "2023-01-25T14:56:40.869541538Z"

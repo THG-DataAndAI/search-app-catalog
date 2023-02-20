@@ -3,7 +3,7 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-02-13T15:18:54.353409381Z"
+    created: "2023-02-20T15:53:26.560797025Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: 9825aefe11b7773f78d3bef9f89c89b0f8d847a38c3f681780ed6613261439cc
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -22,9 +22,9 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-02-13T15:18:54.35637898Z"
+    created: "2023-02-20T15:53:26.563775433Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
-    digest: 88ab48271fd21360eeb8421bed61e33723fa66d8bb45cd8e22e9571eb0d0a7d3
+    digest: bce17e37c6d8d4448ee6a8bbcd729ecd5c84dfc9841a9f27c00fcb5b65845719
     name: kraken
     type: application
     urls:
@@ -33,7 +33,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-02-13T15:18:54.355811542Z"
+    created: "2023-02-20T15:53:26.563010131Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 57ad69c51bbcb5f40d138577c82a028ad916051e9e72b0e66f085bba61d62c9b
     name: kraken
@@ -44,7 +44,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-02-13T15:18:54.355120296Z"
+    created: "2023-02-20T15:53:26.562273829Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: ee9387f907d2c0c0f666ad73b10b8e91397bc7512ff6081d225be2721374b793
     name: kraken
@@ -55,7 +55,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-02-13T15:18:54.354367045Z"
+    created: "2023-02-20T15:53:26.561599927Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 03473d926c231e0bb3bfaa58441d525a6e1ea555fe9d6707af1caf589c631bef
     name: kraken
@@ -63,4 +63,4 @@ entries:
     urls:
     - https://THG-DataAndAI.github.io/search-app-catalog/kraken-1.0.0.tgz
     version: 1.0.0
-generated: "2023-02-13T15:18:54.351531055Z"
+generated: "2023-02-20T15:53:26.557632416Z"

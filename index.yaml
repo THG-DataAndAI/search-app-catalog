@@ -3,7 +3,7 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-05-26T10:58:13.796981361Z"
+    created: "2023-06-05T17:54:36.716776158Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: fd317c8639b05446ccf24f8590964abb70b4daecdd0a18bc8c37c98daae59c90
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -20,7 +20,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2023-05-26T10:58:13.795647515Z"
+    created: "2023-06-05T17:54:36.715511656Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: 9825aefe11b7773f78d3bef9f89c89b0f8d847a38c3f681780ed6613261439cc
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -39,9 +39,9 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-05-26T10:58:13.800686588Z"
+    created: "2023-06-05T17:54:36.720238663Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
-    digest: c13c567d09e50798193b0a09a3428e2f2508b4ac66505f1db64f5ed71c297107
+    digest: 8785e9cfe261fa1fdb6c75149eaad630c65707210e032bb7aa040e5597345385
     name: kraken
     type: application
     urls:
@@ -50,7 +50,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-05-26T10:58:13.80016967Z"
+    created: "2023-06-05T17:54:36.719781562Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: f0d5289f3f277f89ab2f15c224b443c0c556d47ca23474545c34c2171e693f64
     name: kraken
@@ -61,7 +61,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-05-26T10:58:13.799657853Z"
+    created: "2023-06-05T17:54:36.719335162Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: c79323389427d100cee2828e3d49452b2cb957bebc196f74e125d29ec2dee347
     name: kraken
@@ -72,7 +72,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-05-26T10:58:13.799167536Z"
+    created: "2023-06-05T17:54:36.718879561Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: bce17e37c6d8d4448ee6a8bbcd729ecd5c84dfc9841a9f27c00fcb5b65845719
     name: kraken
@@ -83,7 +83,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-05-26T10:58:13.798666619Z"
+    created: "2023-06-05T17:54:36.71841826Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 57ad69c51bbcb5f40d138577c82a028ad916051e9e72b0e66f085bba61d62c9b
     name: kraken
@@ -94,7 +94,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-05-26T10:58:13.798083599Z"
+    created: "2023-06-05T17:54:36.71786336Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: ee9387f907d2c0c0f666ad73b10b8e91397bc7512ff6081d225be2721374b793
     name: kraken
@@ -105,7 +105,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2023-05-26T10:58:13.797506379Z"
+    created: "2023-06-05T17:54:36.717325559Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 03473d926c231e0bb3bfaa58441d525a6e1ea555fe9d6707af1caf589c631bef
     name: kraken
@@ -113,4 +113,4 @@ entries:
     urls:
     - https://THG-DataAndAI.github.io/search-app-catalog/kraken-1.0.0.tgz
     version: 1.0.0
-generated: "2023-05-26T10:58:13.792552209Z"
+generated: "2023-06-05T17:54:36.709868348Z"

@@ -3,7 +3,7 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2024-06-17T08:21:40.626549432Z"
+    created: "2024-06-17T09:03:16.568089286Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: fd317c8639b05446ccf24f8590964abb70b4daecdd0a18bc8c37c98daae59c90
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -20,7 +20,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 8.5.1
-    created: "2024-06-17T08:21:40.62560805Z"
+    created: "2024-06-17T09:03:16.567129317Z"
     description: Helm chart for Elasticsearch (THG version of the official chart)
     digest: 9825aefe11b7773f78d3bef9f89c89b0f8d847a38c3f681780ed6613261439cc
     home: https://github.com/THG-DataAndAI/elasticsearch-helm
@@ -39,7 +39,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.645567782Z"
+    created: "2024-06-17T09:03:16.58906813Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: d4820ce42f21c27dc8ab600eea3a541b3399fbccbc1ec0e5e73fbbd307ec9e5a
     name: hounds
@@ -50,7 +50,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.645087185Z"
+    created: "2024-06-17T09:03:16.588650768Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 329c73fdd3a38ce6eb5955f37a8f8fcb8d7528c6857520453dd7493bef5ad7d8
     name: hounds
@@ -61,7 +61,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.644725848Z"
+    created: "2024-06-17T09:03:16.588280454Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: c0b464ad678650e22b4038e3a3149ab354d4e42951f863f978cccb26ca7c850c
     name: hounds
@@ -72,7 +72,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.644361736Z"
+    created: "2024-06-17T09:03:16.58791015Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 7e94537947e4aa48df3aed8f5bcc2a8816b24243ef08c84051b1c2c12ef9f791
     name: hounds
@@ -83,7 +83,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.643972338Z"
+    created: "2024-06-17T09:03:16.587537031Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: a6bf33727f6750413cb173d6a8789f8f53b2fa6ea37faac4178e8aa71c633f97
     name: hounds
@@ -94,7 +94,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.643601463Z"
+    created: "2024-06-17T09:03:16.587095493Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 4489ff9e99c5e336f34585d42125bd16680076d99469497323fdbe7c430b37be
     name: hounds
@@ -105,7 +105,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.643237732Z"
+    created: "2024-06-17T09:03:16.58639463Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 0a5534010bfb077564897d7909611ef9b4cc4a8747505513544a99750293d17c
     name: hounds
@@ -116,7 +116,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.642866387Z"
+    created: "2024-06-17T09:03:16.585966838Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 7e3fa76cd689991f795989ee6bdeabe607d5889cdba576ba03e310148321577e
     name: hounds
@@ -127,7 +127,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.642506022Z"
+    created: "2024-06-17T09:03:16.585597846Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 05b31e8945c3b0c0e6d1a94e8beb19098a709fa801c27e10a7a2d84cb95a8c3e
     name: hounds
@@ -138,7 +138,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.642126522Z"
+    created: "2024-06-17T09:03:16.585207876Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 8bcb1c293af5d97ac190b5d26c72e8eb84366a60c5ebc82c5f1eb5b93fa1c980
     name: hounds
@@ -149,7 +149,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.641677391Z"
+    created: "2024-06-17T09:03:16.584806734Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 54671644006e1d81bb8d17116da250f7b18378347d34c0d3e0239b85b3f09a19
     name: hounds
@@ -160,7 +160,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.640764472Z"
+    created: "2024-06-17T09:03:16.58263872Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 962da3a67d0652aa05d1393ee4e205447669b985409299e4ba03d80f8ae9615b
     name: hounds
@@ -171,7 +171,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.639943305Z"
+    created: "2024-06-17T09:03:16.581792815Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: d57b6cc4ccd48bcbd635db064edb95a66ee5e9d95a318280241019dd75a2c504
     name: hounds
@@ -182,7 +182,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.639067746Z"
+    created: "2024-06-17T09:03:16.581161Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: ad9554f742fe6cdcd14f2744909c3f3806cbe4d09ffd98f4a9f2e71b115a1d04
     name: hounds
@@ -193,7 +193,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.638712331Z"
+    created: "2024-06-17T09:03:16.580732548Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: cb11dd7bbb686389ed30b96e33c2be9cee3c7bc382ebcff3c7b2ff936a11784c
     name: hounds
@@ -204,7 +204,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.638354Z"
+    created: "2024-06-17T09:03:16.580300699Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 8aa06b9973b6c3095a1ee9a9b92208532bb9032ce1a784e7cc134c9a5b9ab19d
     name: hounds
@@ -215,7 +215,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.637998545Z"
+    created: "2024-06-17T09:03:16.579940133Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: f609be970c50539e4811cd5a5996aa1a172b6747155d22a7c0ea371c2a215eca
     name: hounds
@@ -226,7 +226,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.637639382Z"
+    created: "2024-06-17T09:03:16.579565401Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: b734cf414cfcb8d587b5aaf16e9c859e8c9c3e39a6e3f035b279186ff6704792
     name: hounds
@@ -237,7 +237,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.637240015Z"
+    created: "2024-06-17T09:03:16.579184627Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 6dca9feb6809df688225a2f30d8a119e424c57c9705269b848f618dcafd3b6fb
     name: hounds
@@ -248,7 +248,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.636877626Z"
+    created: "2024-06-17T09:03:16.57882342Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 1208bcf3947dfacbf02e03c4590f17bc3b38460c1f6d934e3a6cfdc3201c3724
     name: hounds
@@ -259,7 +259,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.636504087Z"
+    created: "2024-06-17T09:03:16.578462063Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: ab53904200f9328119838d60316215d433d9fa8f68d569ca2e5405b64183aab7
     name: hounds
@@ -270,7 +270,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.636137371Z"
+    created: "2024-06-17T09:03:16.578095356Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 28bfc761914497687bd96ef0cf54685c06a662e13f21eec3d87dd271f613a04b
     name: hounds
@@ -281,7 +281,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.632531029Z"
+    created: "2024-06-17T09:03:16.574534604Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 3f63913af8c70a6eed2e33406a13bc1b7f2d3b681da099affca2d349a56d2eac
     name: hounds
@@ -292,7 +292,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.631721023Z"
+    created: "2024-06-17T09:03:16.573751597Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 8a0ab079474b307084920fbb5c0b2107fdb1abafdd59bcecd1006a41615ca720
     name: hounds
@@ -303,7 +303,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.630741169Z"
+    created: "2024-06-17T09:03:16.572953471Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 734423d380ebd634ba8e3da88565713ec5ab4c5709685cd0a77bdeb620d6dacd
     name: hounds
@@ -314,7 +314,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.63020212Z"
+    created: "2024-06-17T09:03:16.571800982Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: e687540b488f26c6da082c6c767c59741a4abedccae78dabfc66b3be76c0caaa
     name: hounds
@@ -325,7 +325,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.629818081Z"
+    created: "2024-06-17T09:03:16.571424185Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 2e8f41466079625f4bb478288118443478d45b1be0004b2f202f11cd5c344511
     name: hounds
@@ -336,7 +336,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.635778609Z"
+    created: "2024-06-17T09:03:16.577724821Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 64832320fbdaafe0f689c12c31262da00f1e01f80a46938ffbea91d38ba5599d
     name: hounds
@@ -347,7 +347,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.635403236Z"
+    created: "2024-06-17T09:03:16.577341914Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: b7eb68c85b39c308c841098f37c87ecd240944829ead398e48922c72a57f801e
     name: hounds
@@ -358,7 +358,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.634985404Z"
+    created: "2024-06-17T09:03:16.576943978Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: d73ecda50f9e020a9dd591548aba3da3e41abba64c2a3a16f87209475b3b20e8
     name: hounds
@@ -369,7 +369,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.634592949Z"
+    created: "2024-06-17T09:03:16.576510526Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: b1ba5de974b5cfe5ea45e1b7dc4305763e995bcc009124d5d04a834f4bd3c7c1
     name: hounds
@@ -380,7 +380,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.634217537Z"
+    created: "2024-06-17T09:03:16.576137898Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: c851f71ab82a390f8e06350f3d5ce88adf168e73e59f4180ae9e0af697ca0f2e
     name: hounds
@@ -391,7 +391,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.633824Z"
+    created: "2024-06-17T09:03:16.575762604Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 4d432bfba3e47d27f7f430c035a179ca527956e511c581723fd8c436797a36e9
     name: hounds
@@ -402,7 +402,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.633372444Z"
+    created: "2024-06-17T09:03:16.575356313Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 4af4fc62ed0602af7c5770d6b3ed66dce4855b8a93422f4d2204383e3d6a8ed2
     name: hounds
@@ -413,7 +413,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.629445183Z"
+    created: "2024-06-17T09:03:16.571061476Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: a5f1b6cac840d44b3e0f5ec0d552c1e2f27a0c3b59b29d25ac8e23eea939c680
     name: hounds
@@ -424,7 +424,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.629035436Z"
+    created: "2024-06-17T09:03:16.570682506Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: daac090754b7580437c702f282f78700183cd640ff113aff81312054d71e8107
     name: hounds
@@ -435,7 +435,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.628657578Z"
+    created: "2024-06-17T09:03:16.570293076Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 026f3218c34622e54555fd8f3998fcdcf6324df1536eaab953b2a125c4f130d7
     name: hounds
@@ -446,7 +446,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.628308765Z"
+    created: "2024-06-17T09:03:16.56993247Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 1ffd08b9f3bdbe83a00868805eb22e5f0c9453da704c11dbd8fde50017fa9295
     name: hounds
@@ -457,7 +457,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.627954372Z"
+    created: "2024-06-17T09:03:16.569593375Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 928b6633843589f582ed08ca162cc20bc07ef9c836d4ddc8192061ab0bbbf679
     name: hounds
@@ -468,7 +468,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.627613915Z"
+    created: "2024-06-17T09:03:16.569241966Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 61d81d5863aa00f207efd8b8e88893e0851e80a15057aeea347a0450cf1c6d03
     name: hounds
@@ -479,7 +479,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.627275481Z"
+    created: "2024-06-17T09:03:16.568879898Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: a48fd50817f8d51ed96845dc1e4ffcd0d646d9178bf69118e523a8b660a45cce
     name: hounds
@@ -490,7 +490,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.626917922Z"
+    created: "2024-06-17T09:03:16.568469398Z"
     description: The Helm chart to deploy hounds on a Kubernetes cluster
     digest: 4eb8008833bf72b012f5d77bd3878cb6e138e0f7330009eb85252e77ed48570a
     name: hounds
@@ -502,9 +502,9 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.650332954Z"
+    created: "2024-06-17T09:03:16.594168407Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
-    digest: b0dd9516a8d0faa74ecbda48d9c27e1c55b12dd5eb9ec412c739942bd28f57ce
+    digest: 9a6945d77383023cdab9bc3b34490de4f9d62204c1acd8758347ad7350b07577
     name: indexing-manager
     type: application
     urls:
@@ -513,7 +513,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.649947082Z"
+    created: "2024-06-17T09:03:16.593802572Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: 61684ed92a47a28bbe3192f176aa9057eb2b8985daeb0c21a7a0ec3a5539520d
     name: indexing-manager
@@ -524,7 +524,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.649605723Z"
+    created: "2024-06-17T09:03:16.593353079Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: 7f6c6db714df89da289f5605051c1b7fdf9c3be2ecfeacd7e98dfc42dbec23f9
     name: indexing-manager
@@ -535,7 +535,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.649215332Z"
+    created: "2024-06-17T09:03:16.592252125Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: 7d3794f78863da0a5e73a751fee83f1be6f4f3a0af0fe6d5c56eb57b5be10d03
     name: indexing-manager
@@ -546,7 +546,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.64726514Z"
+    created: "2024-06-17T09:03:16.591505566Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: 52fe72b92ab220477d57ddeb585dc6848d26b381151026a89e247a79b81fe44e
     name: indexing-manager
@@ -557,7 +557,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.646932827Z"
+    created: "2024-06-17T09:03:16.590448216Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: bc705f98aea348d430846cdc499177485a5b93ab5229782fc958289083467cc3
     name: indexing-manager
@@ -568,7 +568,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.646600035Z"
+    created: "2024-06-17T09:03:16.590101226Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: 627b0072283ddc41265629c7484e99d9d9fd0fa05ea02c3647e25a7d456496a3
     name: indexing-manager
@@ -579,7 +579,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.646253836Z"
+    created: "2024-06-17T09:03:16.589759475Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: 3cf4c54a854ebb55efb3d3991cb6dbf35169cc6d1f657adb5c5fd291c61b7db4
     name: indexing-manager
@@ -590,7 +590,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.645921595Z"
+    created: "2024-06-17T09:03:16.58941496Z"
     description: The Helm chart to deploy indexing-manager on a Kubernetes cluster
     digest: 6dc8401351f956dc729de58971cf53831cdc073ce04e1590980d11f33a8878fb
     name: indexing-manager
@@ -602,7 +602,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.650676788Z"
+    created: "2024-06-17T09:03:16.594529244Z"
     description: The Helm chart to deploy indexingmanager on a Kubernetes cluster
     digest: d73aa8e41550026ba97cf98c904f5f33fb4cb7bc8d5fca6aec715823733d1d67
     name: indexingmanager
@@ -614,7 +614,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.654679792Z"
+    created: "2024-06-17T09:03:16.597962838Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 0bff6a95d8179ed936d97a03a1202463234a761a70291bbef6e8efcf4d9e9966
     name: kraken
@@ -625,7 +625,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.653661636Z"
+    created: "2024-06-17T09:03:16.597585311Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 694da9b9c155044690be52492d3e8ae966fb2dc33653735c50f9d40b98a30bd0
     name: kraken
@@ -636,7 +636,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.65326297Z"
+    created: "2024-06-17T09:03:16.597247087Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: d5842ce55c72390dd6bd3d611ceec8ea8875b63fe696de471f2b44788be7cf48
     name: kraken
@@ -647,7 +647,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.65293191Z"
+    created: "2024-06-17T09:03:16.596892853Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: f0d5289f3f277f89ab2f15c224b443c0c556d47ca23474545c34c2171e693f64
     name: kraken
@@ -658,7 +658,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.652594418Z"
+    created: "2024-06-17T09:03:16.596479008Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: c79323389427d100cee2828e3d49452b2cb957bebc196f74e125d29ec2dee347
     name: kraken
@@ -669,7 +669,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.652230798Z"
+    created: "2024-06-17T09:03:16.596134402Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: bce17e37c6d8d4448ee6a8bbcd729ecd5c84dfc9841a9f27c00fcb5b65845719
     name: kraken
@@ -680,7 +680,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.65189036Z"
+    created: "2024-06-17T09:03:16.595785508Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 57ad69c51bbcb5f40d138577c82a028ad916051e9e72b0e66f085bba61d62c9b
     name: kraken
@@ -691,7 +691,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.651480984Z"
+    created: "2024-06-17T09:03:16.595340093Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: ee9387f907d2c0c0f666ad73b10b8e91397bc7512ff6081d225be2721374b793
     name: kraken
@@ -702,7 +702,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.651046009Z"
+    created: "2024-06-17T09:03:16.594952677Z"
     description: The Helm chart to deploy kraken on a Kubernetes cluster
     digest: 03473d926c231e0bb3bfaa58441d525a6e1ea555fe9d6707af1caf589c631bef
     name: kraken
@@ -714,7 +714,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.659339813Z"
+    created: "2024-06-17T09:03:16.602748516Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: 282793943eaf414a8ba0e946e9347ded1320ae9b9e9a2cbf112bae12aca67c81
     name: similarity-service
@@ -725,7 +725,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.659021227Z"
+    created: "2024-06-17T09:03:16.602361912Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: aa4ea1000eb4249bab135e480bae27065a4af970527b93a045b4ac5594cf7944
     name: similarity-service
@@ -736,7 +736,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.658677263Z"
+    created: "2024-06-17T09:03:16.60172049Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: db77fc252650fb9c28b9b7df0a54883e64b0a422192043821307e50311509e82
     name: similarity-service
@@ -747,7 +747,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.658356212Z"
+    created: "2024-06-17T09:03:16.600997866Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: 2afbee0160b22029a8b90d7adc8f1dc8e77f0ac133ef61fd7472abcd7ea2a3e2
     name: similarity-service
@@ -758,7 +758,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.658030172Z"
+    created: "2024-06-17T09:03:16.600263549Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: d744233bf7e255dcb824c8c68768227f48430f9269ec802c527920bb1c5f0c76
     name: similarity-service
@@ -769,7 +769,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.657667583Z"
+    created: "2024-06-17T09:03:16.599315914Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: d8e9b7c1a987d1eed5e2a4e7c01dfcc80cf3867ff7846111599312235ebc2122
     name: similarity-service
@@ -780,7 +780,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.656985506Z"
+    created: "2024-06-17T09:03:16.598985885Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: b9f91a4ebcfb7e403429294fcea4b4fe48a143a455a42bd676c2e4238a8f58d1
     name: similarity-service
@@ -791,7 +791,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.656478026Z"
+    created: "2024-06-17T09:03:16.598616363Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: 701881c1a052e094ce94dd4c58e6ce2b69ec3a595a14461b67097bfb5c47b66c
     name: similarity-service
@@ -802,7 +802,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.655454302Z"
+    created: "2024-06-17T09:03:16.598292145Z"
     description: The Helm chart to deploy similarity-service on a Kubernetes cluster
     digest: 815cd631b8cac681f58151065a47baab3805564694b9c9dba842db9242ca48a0
     name: similarity-service
@@ -814,7 +814,7 @@ entries:
   - annotations:
       application.giantswarm.io/team: search
     apiVersion: v2
-    created: "2024-06-17T08:21:40.659663029Z"
+    created: "2024-06-17T09:03:16.603086911Z"
     description: The Helm chart to deploy similarityservice on a Kubernetes cluster
     digest: b18389668464fafd6775f79532a86e4c85f9fd3657a0025a260bc3e58e516e49
     name: similarityservice
@@ -822,4 +822,4 @@ entries:
     urls:
     - https://THG-DataAndAI.github.io/search-app-catalog/similarityservice-1.0.0.tgz
     version: 1.0.0
-generated: "2024-06-17T08:21:40.622942077Z"
+generated: "2024-06-17T09:03:16.563185646Z"
